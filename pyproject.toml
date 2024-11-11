@@ -1,0 +1,18 @@
+[project]
+name = "example_package_ajin0909"
+version = "0.0.1"
+authors = [
+  { name="AhJin Lim", email="rezion1207@hanyang.ac.kr" },
+]
+description = "A small example package"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/ajin0909/sampleproject"
+Issues = "https://github.com/ajin0909/sampleproject/issues"
